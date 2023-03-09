@@ -1,0 +1,19 @@
+{
+  "name": "Flutter Clean Code",
+  "needSubDir": true,
+  "subDirNameCase": "snakeCase",
+  "dirs": {
+    "data": [],
+    "data/data_source": [],
+    "data/models": [],
+    "data/repository": [],
+    "domain": [],
+    "domain/entities": [],
+    "domain/repository": [],
+    "domain/use_cases": [],
+    "presentation": [],
+    "presentation/components": [],
+    "presentation/controller": [],
+    "presentation/screens": []
+  }
+}
