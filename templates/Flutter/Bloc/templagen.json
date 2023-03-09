@@ -1,0 +1,25 @@
+{
+  "name": "Flutter Bloc",
+  "needSubDir": true,
+  "subDirNameCase": "snakeCase",
+  "foldersFilesNamesReplacer": [
+    {
+      "case": "snakeCase",
+      "nameToReplace": "key",
+      "useSubDirName": true
+    }
+  ],
+  "filesContentReplacer": [
+    {
+      "case": "snakeCase",
+      "nameToReplace": "<{key_sc}>",
+      "useSubDirName": true
+    },
+    {
+      "case": "pascalCase",
+      "nameToReplace": "<{key}>",
+      "useSubDirName": true
+    }
+  ],
+  "dirs": {}
+}
